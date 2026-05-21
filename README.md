@@ -1,1 +1,1 @@
-My first readme
+This is the ALU zero day repository
