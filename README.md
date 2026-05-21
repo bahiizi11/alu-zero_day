@@ -1,1 +1,1 @@
-This is the ALU zero day repository
+"This is my git directory"
